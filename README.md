@@ -25,7 +25,7 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-garg79&show_icons=true&locale=en&layout=compact&theme=tokyonight"  alt="dhruv-garg79" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-garg79&show_icons=true&locale=en&theme=tokyonight"  alt="dhruv-garg79" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dhruv-garg79&show_icons=true&locale=en&theme=tokyonight" alt="dhruv-garg79" />
 </p>
 </details>
