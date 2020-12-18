@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Garg</h1>
 <h3 align="center">A generalist having imprecise knowledge of many things and trying to be specialist in Mobile app development and Backend Development.</h3>
 
-- 🔭 I’m currently working on [Doom](https://github.com/Dhruv-Garg79/Doom)
-
-- 🌱 I’m currently learning **Java Backend**
-
-- 📝 I sometimes write articles on [https://dev.to/dhruvgarg79](https://dev.to/dhruvgarg79)
-
 - 💬 Ask me about **Android, Flutter, Backend**
 
 - 📫 How to reach me **garg.dh123@gmail.com**
